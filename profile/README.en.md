@@ -16,7 +16,7 @@ An open-source toolchain that makes every step of Apps in Toss mini-app developm
 
 - 🛠️ **Develop** without the Toss app — run mocks in your browser
 - 🧪 **Experiment** with every SDK API interactively
-- 🌐 **Write** with standard Web APIs instead of a proprietary SDK
+- 🌐 **Write** with standard Web APIs instead of the proprietary SDK
 - 📚 **Learn** from clean, friendly docs
 - 🤖 **Automate** your mini-app development with Claude Code
 

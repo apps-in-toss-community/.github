@@ -4,7 +4,7 @@
 
 **앱인토스 미니앱 개발을 가장 편하게.**
 
-[Landing](https://apps-in-toss-community.github.io/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [English →](./profile/README.en.md)
+[Landing](https://apps-in-toss-community.github.io/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [English →](./README.en.md)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 앱인토스 미니앱 개발의 모든 단계를 편하게 만드는 오픈소스 도구 모음을 만듭니다.
 
-- 🛠️ **개발**: 토스 앱 없이 브라우저에서 mock으로 개발
-- 🧪 **실험**: 모든 SDK API를 인터랙티브하게 테스트
-- 🌐 **표준**: 독점 SDK 대신 웹 표준 API로 작성
-- 📚 **학습**: 친절하고 세련된 문서
-- 🤖 **자동화**: Claude Code로 미니앱을 만들고 배포
+- 🛠️ **개발**: 토스 앱 없이 브라우저에서 mock으로 개발하기
+- 🧪 **실험**: 모든 SDK API를 인터랙티브하게 테스트하기
+- 🌐 **표준**: 독점 SDK 대신 웹 표준 API로 미니앱 작성하기
+- 📚 **학습**: 친절하고 세련된 가이드로 배우기
+- 🤖 **자동화**: Claude Code로 미니앱 만들고 배포하기
 
 ---
 
