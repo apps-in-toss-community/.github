@@ -12,11 +12,11 @@
 
 ## What we offer
 
-- 🛠️ **Develop** — run and iterate on your mini-app in any web browser, no Toss app required
-- 🧪 **Experiment** — call every SDK API directly in your browser and see the result
-- 🌐 **Standards** — write mini-apps with standard Web APIs instead of the proprietary SDK
-- 📚 **Docs** — read clean, friendly guides and references
-- 🤖 **Automate** — build and deploy mini-apps with Claude Code
+- 🛠️ **No deploys, no sandbox** — run your mini-app right in the browser
+- 🧪 **No guessing from docs** — call every SDK API and see the result
+- 🌐 **No new SDK to learn** — write with Web APIs you already know
+- 📚 **No hunting through docs** — friendly, curated guides
+- 🤖 **No manual grunt work** — build and ship with Claude Code
 
 ---
 
