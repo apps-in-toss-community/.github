@@ -10,15 +10,13 @@
 
 ---
 
-## 우리가 하려는 것
+## 이런 것들을 할 수 있어요
 
-앱인토스 미니앱 개발의 모든 단계를 편하게 만드는 오픈소스 도구 모음을 만듭니다.
-
-- 🛠️ **개발**: 토스 앱 없이 브라우저에서 mock으로 개발하기
-- 🧪 **실험**: 모든 SDK API를 인터랙티브하게 테스트하기
-- 🌐 **표준**: 독점 SDK 대신 웹 표준 API로 미니앱 작성하기
-- 📚 **학습**: 친절하고 세련된 가이드로 배우기
-- 🤖 **자동화**: Claude Code로 미니앱 만들고 배포하기
+- 🛠️ **개발**: 토스 앱 없이 웹 브라우저에서 미니앱을 구동하고 개발합니다
+- 🧪 **실험**: 모든 SDK API를 브라우저에서 즉시 실행하고 결과를 확인합니다
+- 🌐 **표준**: 독점 SDK 대신 웹 표준 API를 그대로 사용해 미니앱을 작성합니다
+- 📚 **문서**: 친절하고 세련된 가이드와 레퍼런스를 읽습니다
+- 🤖 **자동화**: Claude Code로 미니앱을 만들고 배포합니다
 
 ---
 
@@ -28,28 +26,28 @@
 
 | Project | Description |
 |---|---|
-| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리 + universal bundler plugin + floating DevTools panel. **토스 앱 없이 크롬에서 미니앱 개발**. |
-| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 실제 SDK API를 브라우저에서 **인터랙티브하게 실행해보고 코드를 함께 확인**할 수 있는 레퍼런스 앱. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
+| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리, 번들러 플러그인, floating DevTools 패널. **토스 앱 없이 웹 브라우저에서 미니앱을 구동·테스트**할 수 있습니다. |
+| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 해당 코드를 **나란히 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
 
 ### 🚧 Coming Soon
 
 | Project | Description |
 |---|---|
-| [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation` 등)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
-| [**`docs`**](https://github.com/apps-in-toss-community/docs) | 공식 문서를 기반으로 더 **세련되고 친절하게 재구성한 가이드/레퍼런스**. |
-| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | 위 모든 도구를 엮어 **Claude Code 안에서 미니앱을 생성·개발·테스트·배포**하는 공식 플러그인. |
+| [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
+| [**`docs`**](https://github.com/apps-in-toss-community/docs) | 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 가이드/레퍼런스 문서 세트. |
+| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | 위 도구들을 엮어 **Claude Code 안에서 미니앱을 생성·개발·테스트·배포**하는 공식 플러그인. |
 
 ---
 
-## Quick start
+## devtools로 시작하기
 
-로컬에서 미니앱을 개발 중이라면 `@ait-co/devtools`를 추가하세요:
+개발 중인 미니앱에 `@ait-co/devtools`를 추가합니다:
 
 ```bash
 pnpm add -D @ait-co/devtools
 ```
 
-`vite.config.ts`에 플러그인을 추가하면 `@apps-in-toss/web-framework` import가 개발 중 자동으로 mock으로 swap됩니다:
+`vite.config.ts`에 플러그인을 추가하면, 개발 중에는 SDK import가 자동으로 mock으로 대체되어 브라우저에서 바로 실행할 수 있습니다:
 
 ```ts
 import { defineConfig } from 'vite';
@@ -60,7 +58,7 @@ export default defineConfig({
 });
 ```
 
-실제 배포 시에는 원본 SDK가 그대로 사용됩니다.
+실제 배포에서는 원본 SDK가 그대로 사용됩니다.
 
 ---
 
