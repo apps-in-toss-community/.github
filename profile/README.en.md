@@ -34,8 +34,8 @@
 | Project | Description |
 |---|---|
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | A polyfill so you can build mini-apps with **standard Web APIs** (`navigator.clipboard`, `navigator.geolocation`, ...) instead of the proprietary SDK. |
-| [**`docs`**](https://github.com/apps-in-toss-community/docs) | A **cleaner, friendlier** set of guides and references, built on top of the official documentation. |
-| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | The official plugin that ties everything together — **scaffold, develop, test, and publish mini-apps from inside Claude Code**. |
+| [**`docs`**](https://github.com/apps-in-toss-community/docs) | A **cleaner, friendlier** community-maintained set of guides and references, built on top of the Apps in Toss official documentation. |
+| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | A community plugin that ties everything together — **scaffold, develop, test, and publish mini-apps from inside Claude Code**. |
 
 ---
 

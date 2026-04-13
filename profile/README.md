@@ -34,8 +34,8 @@
 | Project | Description |
 |---|---|
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
-| [**`docs`**](https://github.com/apps-in-toss-community/docs) | 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 가이드/레퍼런스 문서 세트. |
-| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | 위 도구들을 엮어 **Claude Code 안에서 미니앱을 생성·개발·테스트·배포**하는 공식 플러그인. |
+| [**`docs`**](https://github.com/apps-in-toss-community/docs) | 앱인토스 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 커뮤니티 가이드/레퍼런스. |
+| [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | 위 도구들을 엮어 **Claude Code 안에서 미니앱을 생성·개발·테스트·배포**할 수 있게 해주는 커뮤니티 플러그인. |
 
 ---
 
