@@ -35,6 +35,7 @@
 |---|---|
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | 앱인토스 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 커뮤니티 가이드/레퍼런스. |
+| [**`apps-in-toss-oidc-bridge`**](https://github.com/apps-in-toss-community/apps-in-toss-oidc-bridge) | 토스 로그인을 **표준 OIDC**와 **Firebase Custom Token**으로 중계하는 오픈소스 서버. Supabase Auth, Firebase Auth, Auth0 등 어디든 바로 연결할 수 있어요. (공용 인스턴스, rate-limited, best-effort) |
 | [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | 위 도구들을 엮어 **Claude Code 안에서 미니앱을 생성·개발·테스트·배포**할 수 있게 해주는 커뮤니티 플러그인. |
 
 ---
