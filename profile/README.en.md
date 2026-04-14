@@ -35,7 +35,8 @@
 |---|---|
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | A polyfill so you can build mini-apps with **standard Web APIs** (`navigator.clipboard`, `navigator.geolocation`, ...) instead of the proprietary SDK. |
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | A **cleaner, friendlier** community-maintained set of guides and references, built on top of the Apps in Toss official documentation. |
-| [**`apps-in-toss-oidc-bridge`**](https://github.com/apps-in-toss-community/apps-in-toss-oidc-bridge) | An open-source server that bridges Toss login into **standard OIDC** and **Firebase Custom Tokens** — plug straight into Supabase Auth, Firebase Auth, Auth0, or any OIDC-compatible IdP. Public instance available (rate-limited, best-effort). |
+| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | An open-source server that bridges Toss login into **standard OIDC** and **Firebase Custom Tokens** — plug straight into Supabase Auth, Firebase Auth, Auth0, or any OIDC-compatible IdP. Public instance available (rate-limited, best-effort). |
+| [**`console-cli`**](https://github.com/apps-in-toss-community/console-cli) | CLI and MCP server for the Apps in Toss console — log in once in a browser, then drive builds, deploys, and releases from your shell or from Claude via headless automation. |
 | [**`claude-code-plugin`**](https://github.com/apps-in-toss-community/claude-code-plugin) | A community plugin that ties everything together — **scaffold, develop, test, and publish mini-apps from inside Claude Code**. |
 
 ---
