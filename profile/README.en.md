@@ -4,7 +4,7 @@
 
 **The most convenient way to build Apps in Toss mini-apps.**
 
-[Landing](https://aitc.dev/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [한국어 →](./README.md)
+[Landing](https://aitc.dev/) · [Web Demo](https://sdk-example.aitc.dev/) · [한국어 →](./README.md)
 
 </div>
 
@@ -27,7 +27,7 @@
 | Project | Description |
 |---|---|
 | [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | A mock library for `@apps-in-toss/web-framework` with a bundler plugin and a floating DevTools panel. **Run and test your mini-app in any web browser** without the Toss app. |
-| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | An **interactive reference app** — run any SDK API and inspect the JSON result and execution history in real time. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
+| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | An **interactive reference app** — run any SDK API and inspect the JSON result and execution history in real time. → [Web Demo](https://sdk-example.aitc.dev/) |
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | A polyfill so you can build mini-apps with **standard Web APIs** (`navigator.clipboard`, `navigator.geolocation`, ...) instead of the proprietary SDK. |
 | [**`console-cli`**](https://github.com/apps-in-toss-community/console-cli) | CLI for the Apps in Toss console — log in once in a browser, then drive builds, deploys, and releases from your shell via headless automation. |
 
@@ -68,4 +68,4 @@ The real SDK is used as-is in production.
 
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — the underlying SDK
 - 🏠 [Landing page](https://aitc.dev/) — project hub
-- 🧪 [SDK Web Demo](https://apps-in-toss-community.github.io/sdk-example/) — every API in your browser
+- 🧪 [SDK Web Demo](https://sdk-example.aitc.dev/) — every API in your browser

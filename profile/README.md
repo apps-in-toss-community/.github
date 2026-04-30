@@ -4,7 +4,7 @@
 
 **앱인토스 미니앱 개발을 가장 편하게.**
 
-[Landing](https://aitc.dev/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [English →](./README.en.md)
+[Landing](https://aitc.dev/) · [Web Demo](https://sdk-example.aitc.dev/) · [English →](./README.en.md)
 
 </div>
 
@@ -27,7 +27,7 @@
 | Project | Description |
 |---|---|
 | [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리, 번들러 플러그인, floating DevTools 패널. **토스 앱 없이 웹 브라우저에서 미니앱을 구동·테스트**할 수 있습니다. |
-| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 **JSON 결과와 실행 이력을 실시간으로 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
+| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 **JSON 결과와 실행 이력을 실시간으로 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://sdk-example.aitc.dev/) |
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
 | [**`console-cli`**](https://github.com/apps-in-toss-community/console-cli) | 앱인토스 콘솔을 **CLI**로 자동화. 최초 로그인만 브라우저로 하고, 이후엔 headless 브라우저로 빌드·배포·릴리스를 커맨드 한 줄로 처리할 수 있어요. |
 
@@ -68,4 +68,4 @@ export default defineConfig({
 
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — 원본 SDK
 - 🏠 [Landing page](https://aitc.dev/) — 프로젝트 허브
-- 🧪 [SDK Web Demo](https://apps-in-toss-community.github.io/sdk-example/) — 브라우저에서 모든 API 실행
+- 🧪 [SDK Web Demo](https://sdk-example.aitc.dev/) — 브라우저에서 모든 API 실행
