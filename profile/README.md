@@ -4,7 +4,7 @@
 
 **앱인토스 미니앱 개발을 가장 편하게.**
 
-[Landing](https://apps-in-toss-community.github.io/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [English →](./README.en.md)
+[Landing](https://aitc.dev/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [English →](./README.en.md)
 
 </div>
 
@@ -67,5 +67,5 @@ export default defineConfig({
 ## Resources
 
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — 원본 SDK
-- 🏠 [Landing page](https://apps-in-toss-community.github.io/) — 프로젝트 허브
+- 🏠 [Landing page](https://aitc.dev/) — 프로젝트 허브
 - 🧪 [SDK Web Demo](https://apps-in-toss-community.github.io/sdk-example/) — 브라우저에서 모든 API 실행

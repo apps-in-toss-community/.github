@@ -4,7 +4,7 @@
 
 **The most convenient way to build Apps in Toss mini-apps.**
 
-[Landing](https://apps-in-toss-community.github.io/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [한국어 →](./README.md)
+[Landing](https://aitc.dev/) · [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) · [한국어 →](./README.md)
 
 </div>
 
@@ -67,5 +67,5 @@ The real SDK is used as-is in production.
 ## Resources
 
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — the underlying SDK
-- 🏠 [Landing page](https://apps-in-toss-community.github.io/) — project hub
+- 🏠 [Landing page](https://aitc.dev/) — project hub
 - 🧪 [SDK Web Demo](https://apps-in-toss-community.github.io/sdk-example/) — every API in your browser
