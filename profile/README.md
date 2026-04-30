@@ -27,17 +27,17 @@
 | Project | Description |
 |---|---|
 | [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리, 번들러 플러그인, floating DevTools 패널. **토스 앱 없이 웹 브라우저에서 미니앱을 구동·테스트**할 수 있습니다. |
-| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 해당 코드를 **나란히 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
+| [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 **JSON 결과와 실행 이력을 실시간으로 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://apps-in-toss-community.github.io/sdk-example/) |
+| [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
+| [**`console-cli`**](https://github.com/apps-in-toss-community/console-cli) | 앱인토스 콘솔을 **CLI**로 자동화. 최초 로그인만 브라우저로 하고, 이후엔 headless 브라우저로 빌드·배포·릴리스를 커맨드 한 줄로 처리할 수 있어요. |
 
 ### 🚧 Coming Soon
 
 | Project | Description |
 |---|---|
-| [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | 독점 SDK 대신 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 사용해 미니앱을 만들 수 있는 polyfill. |
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | 앱인토스 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 커뮤니티 가이드/레퍼런스. |
-| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | 토스 로그인을 **표준 OIDC**와 **Firebase Custom Token**으로 중계하는 오픈소스 서버. Supabase Auth, Firebase Auth, Auth0 등 어디든 바로 연결할 수 있어요. (공용 인스턴스, rate-limited, best-effort) |
-| [**`console-cli`**](https://github.com/apps-in-toss-community/console-cli) | 앱인토스 콘솔을 **CLI**와 **MCP**로 자동화. 최초 로그인만 브라우저로 하고, 이후엔 headless 브라우저로 빌드·배포·릴리스를 커맨드 한 줄 또는 Claude 명령으로 처리할 수 있어요. |
-| [**`agent-plugin`**](https://github.com/apps-in-toss-community/agent-plugin) | 위 도구들을 엮어 **Claude Code와 OpenAI Codex 안에서 미니앱을 생성·개발·테스트·배포**할 수 있게 해주는 커뮤니티 플러그인. 단일 repo에서 양쪽 marketplace로 듀얼 배포됩니다. |
+| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | 토스 로그인을 **표준 OIDC**와 **Firebase Custom Token**으로 중계하는 오픈소스 서버. Supabase Auth, Firebase Auth, Auth0 등 어디든 바로 연결할 수 있어요. (공용 인스턴스 예정) |
+| [**`agent-plugin`**](https://github.com/apps-in-toss-community/agent-plugin) | 위 도구들을 엮어 **Claude Code와 OpenAI Codex 안에서 미니앱을 생성·개발·테스트·배포**할 수 있게 해주는 커뮤니티 플러그인. 궁극적으로 단일 repo에서 양쪽 marketplace로 듀얼 배포될 예정입니다. |
 
 ---
 
