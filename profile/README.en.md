@@ -36,7 +36,7 @@
 | Project | Description |
 |---|---|
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | A **cleaner, friendlier** community-maintained set of guides and references, built on top of the Apps in Toss official documentation. |
-| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | An open-source server that bridges Toss login into **standard OIDC** and **Firebase Custom Tokens** — plug straight into Supabase Auth, Firebase Auth, Auth0, or any OIDC-compatible IdP. Public instance planned. |
+| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | An open-source server that bridges Toss login into **standard OIDC** and **Firebase Custom Tokens** — plug straight into Supabase Auth, Firebase Auth, Auth0, or any OIDC-compatible IdP. Zero-code mode is under active implementation; the public instance at `oidc-bridge.aitc.dev` is on the way. |
 | [**`agent-plugin`**](https://github.com/apps-in-toss-community/agent-plugin) | A community plugin that ties everything together — **scaffold, develop, test, and publish mini-apps from inside Claude Code and OpenAI Codex**. Planned dual-distribution to both marketplaces from a single repo. |
 
 ---

@@ -36,7 +36,7 @@
 | Project | Description |
 |---|---|
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | 앱인토스 공식 문서를 기반으로 더 **세련되고 친절하게** 재구성한 커뮤니티 가이드/레퍼런스. |
-| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | 토스 로그인을 **표준 OIDC**와 **Firebase Custom Token**으로 중계하는 오픈소스 서버. Supabase Auth, Firebase Auth, Auth0 등 어디든 바로 연결할 수 있어요. (공용 인스턴스 예정) |
+| [**`oidc-bridge`**](https://github.com/apps-in-toss-community/oidc-bridge) | 토스 로그인을 **표준 OIDC**와 **Firebase Custom Token**으로 중계하는 오픈소스 서버. Supabase Auth, Firebase Auth, Auth0 등 어디든 바로 연결할 수 있어요. zero-code mode 구현 중 — 공용 인스턴스(`oidc-bridge.aitc.dev`)가 곧 올라옵니다. |
 | [**`agent-plugin`**](https://github.com/apps-in-toss-community/agent-plugin) | 위 도구들을 엮어 **Claude Code와 OpenAI Codex 안에서 미니앱을 생성·개발·테스트·배포**할 수 있게 해주는 커뮤니티 플러그인. 궁극적으로 단일 repo에서 양쪽 marketplace로 듀얼 배포될 예정입니다. |
 
 ---
