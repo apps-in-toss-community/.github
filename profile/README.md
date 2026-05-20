@@ -64,7 +64,7 @@ export default defineConfig({
 
 ---
 
-## Resources
+## 리소스
 
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — 원본 SDK
 - 🏠 [Landing page](https://aitc.dev/) — 프로젝트 허브
