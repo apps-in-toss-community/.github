@@ -26,7 +26,7 @@
 
 | Project | Description |
 |---|---|
-| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | A mock library for `@apps-in-toss/web-framework` with a bundler plugin and a floating DevTools panel. **Run and test your mini-app in any web browser** without the Toss app. |
+| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | A mock library for `@apps-in-toss/web-framework` with a bundler plugin and a floating DevTools panel. **Run and test your mini-app in any web browser** without the Toss app. → [Web Demo](https://devtools.aitc.dev/) |
 | [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | An **interactive reference app** — run any SDK API and inspect the JSON result and execution history in real time. → [Web Demo](https://sdk-example.aitc.dev/) |
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | A polyfill so you can build mini-apps with **standard Web APIs** (`navigator.clipboard`, `navigator.geolocation`, ...) that transparently route through the SDK at runtime. |
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | A **cleaner, friendlier** community-curated reference built around the Apps in Toss SDK. → [Web Demo](https://docs.aitc.dev/) |

@@ -26,7 +26,7 @@
 
 | 프로젝트 | 설명 |
 |---|---|
-| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리, 번들러 플러그인, floating DevTools 패널. **토스 앱 없이 웹 브라우저에서 미니앱을 구동·테스트**할 수 있습니다. |
+| [**`@ait-co/devtools`**](https://github.com/apps-in-toss-community/devtools) | `@apps-in-toss/web-framework` SDK의 mock 라이브러리, 번들러 플러그인, floating DevTools 패널. **토스 앱 없이 웹 브라우저에서 미니앱을 구동·테스트**할 수 있습니다. → [Web Demo](https://devtools.aitc.dev/) |
 | [**`sdk-example`**](https://github.com/apps-in-toss-community/sdk-example) | 모든 SDK API를 직접 실행해보면서 **JSON 결과와 실행 이력을 실시간으로 확인할 수 있는 인터랙티브 레퍼런스 앱**. → [Web Demo](https://sdk-example.aitc.dev/) |
 | [**`@ait-co/polyfill`**](https://github.com/apps-in-toss-community/polyfill) | SDK를 직접 import하지 않고도 **웹 표준 API**(`navigator.clipboard`, `navigator.geolocation`, ...)를 그대로 써서 미니앱을 만들 수 있는 polyfill — 런타임에 SDK로 자동 라우팅됩니다. |
 | [**`docs`**](https://github.com/apps-in-toss-community/docs) | 앱인토스 SDK 문서를 기반으로 더 **세련되고 친절하게** 재구성한 커뮤니티 가이드/레퍼런스. → [Web Demo](https://docs.aitc.dev/) |
