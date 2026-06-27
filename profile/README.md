@@ -70,3 +70,7 @@ export default defineConfig({
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — 원본 SDK
 - 🏠 [Landing page](https://aitc.dev/) — 프로젝트 허브
 - 🧪 [SDK Web Demo](https://sdk-example.aitc.dev/) — 브라우저에서 모든 API 실행
+
+---
+
+커뮤니티 오픈소스 프로젝트입니다.

@@ -70,3 +70,7 @@ The real SDK is used as-is in production.
 - 📦 [`@apps-in-toss/web-framework`](https://www.npmjs.com/package/@apps-in-toss/web-framework) — the underlying SDK
 - 🏠 [Landing page](https://aitc.dev/) — project hub
 - 🧪 [SDK Web Demo](https://sdk-example.aitc.dev/) — every API in your browser
+
+---
+
+Community open-source project.
